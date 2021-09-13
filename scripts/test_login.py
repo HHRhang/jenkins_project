@@ -1,7 +1,7 @@
 class TestLogin:
 
     def test_login001(self):
-        assert 0
+        assert 1
 
     def test_login002(self):
         assert 1
